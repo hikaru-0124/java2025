@@ -1,4 +1,4 @@
-package J0723;
+package J0723.calcapp.logics;
 
 public class CalcLogic {
     public static int tasu(int a, int b) {

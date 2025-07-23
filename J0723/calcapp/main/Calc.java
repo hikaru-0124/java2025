@@ -1,4 +1,6 @@
-package J0723;
+package J0723.calcapp.main;
+
+import J0723.calcapp.logics.*;
 
 public class Calc {
      public static void main(String[] args) {
